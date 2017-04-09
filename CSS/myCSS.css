@@ -18,7 +18,7 @@ a.sitetitle {
     background: url(/images/ohsoft_logo_shadow2.png)no-repeat;
 }
 
-div#myNav {
+#myNav {
     position: absolute;
     bottom: 0;
     right: 0;
