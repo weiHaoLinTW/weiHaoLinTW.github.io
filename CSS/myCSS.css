@@ -9,12 +9,16 @@ font-family: Arial, Helvetica, sans-serif;
 line-height: 20px;
 }
 
+header{
+background: url(/images/myHeader3.png) no-repeat;
+}
+
 #myHeader {
 	width: 1015px;
 	height: 120px;
 	position: relative;
 	margin: 0 auto;
-	background: url(/images/myHeader2.png) no-repeat
+	background: url(/images/myHeader2.png) repeat-x;
 }
 
 a.sitetitle {
