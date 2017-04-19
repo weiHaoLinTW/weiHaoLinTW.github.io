@@ -58,3 +58,9 @@ a.sitetitle {
 .myMenu  img    {
     vertical-align: middle;
 }
+
+.myMenu ul li a {
+    margin-right: 1px;
+    padding: 0 15px;
+    color: purple;
+}
