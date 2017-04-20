@@ -79,3 +79,19 @@ a.sitetitle {
 .right{
         float:right;
 }
+
+#myContent {
+	width: 700px;
+}
+
+#mySidebar {
+	width: 300px;
+}
+
+.h30 {
+        height: 30px;   
+}
+
+.clear {
+        clear:both;   
+}
