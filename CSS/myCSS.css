@@ -53,11 +53,14 @@ a.sitetitle {
     height: 60px;
     line-height: 60px;
     margin-right: 20px;
-    color: #480048;
 }
 
 .myMenu  img    {
     vertical-align: middle;
-    padding: 0 15px;
 }
 
+.myMenu ul li a   {
+    color: #480048;
+    padding: 0 15px;
+    margin-right: 1px;
+}
