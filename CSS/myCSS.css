@@ -64,3 +64,10 @@ a.sitetitle {
     padding: 0 15px;
     margin-right: 1px;
 }
+
+#mainContent {
+        clear: both;
+	width: 1015px;
+	margin: 0 auto;
+	padding: 5px 10px 0;
+}
