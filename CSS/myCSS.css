@@ -60,9 +60,9 @@ a.sitetitle {
 }
 
 .myMenu ul li a   {
-    color: white;
     padding: 0 15px;
     margin-right: 1px;
+    color: white;
 }
 
 #mainContent {
