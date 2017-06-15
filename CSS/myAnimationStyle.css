@@ -21,9 +21,9 @@ footer {
 
 #animateDiv {
     width: 40px;
-    background: #09beb7;
-    color: white;
-    font-size: 20px;
+    background: blue;
+    color: yellow;
+    font-size: 25px;
     font-weight: bolder;
     padding: 10px;
     float: left;
