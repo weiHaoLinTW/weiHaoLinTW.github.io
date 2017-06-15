@@ -37,16 +37,16 @@ footer {
     0% {transform: rotate(0deg);left:-100px;}
    10% {transform: rotate(0deg);left:0px;}
    15% {transform: rotate(20deg);}
-   30% {transform: rotate(0deg);left:400px;}
-   40% {transform: scale(1.5,1.5);left:400px;}
-   46% {transform: scale(1,1);left:400px;}
-   50% {transform: rotate(0deg);left:400px;}
-   60% {transform: rotate(360deg);left:800px;background: black;}
-   65% {transform: rotate(350deg);left:800px;}
-   70% {transform: rotate(360deg);left:800px;}
-   75% {transform: rotate(370deg);left:800px;}
-   80% {transform: rotate(360deg);left:800px;background:green;}
-   90% {transform: rotate(0deg);left:400px;background:red;}
-   95% {transform: rotate(-20deg);left:400px;}
+   30% {transform: rotate(0deg);left:300px;}
+   40% {transform: scale(1.5,1.5);left:300px;}
+   46% {transform: scale(1,1);left:300px;}
+   50% {transform: rotate(0deg);left:300px;background: gray;}
+   60% {transform: rotate(360deg);left:1000px;}
+   65% {transform: rotate(350deg);left:1000px;background: black;}
+   70% {transform: rotate(360deg);left:1000px;}
+   75% {transform: rotate(370deg);left:1000px;background:green;}
+   80% {transform: rotate(360deg);left:1000px;}
+   90% {transform: rotate(0deg);left:300px;background:red;}
+   95% {transform: rotate(-20deg);left:300px;}
   100% {transform: rotate(0deg);left:-100px;}
 }
